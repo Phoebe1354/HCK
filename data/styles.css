@@ -7,82 +7,73 @@
   text-align:center;
   line-height:normal;
 }
-.image {
-}
-.heading_1 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:32px;
-  text-align:left;
-}
-.heading_2 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:24px;
-  text-align:left;
-}
-.heading_3 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:18px;
-  text-align:left;
-}
-.heading_4 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:14px;
-  text-align:left;
-}
-.heading_5 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  text-align:left;
-}
-.heading_6 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:10px;
-  text-align:left;
-}
-.paragraph {
-  text-align:left;
-}
 .box_1 {
 }
 .box_2 {
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.ellipse {
+._图片 {
 }
 .button {
-}
-.box_3 {
-}
-.placeholder {
-}
-.line {
-}
-._文本段落 {
-  text-align:left;
 }
 .primary_button {
   color:#FFFFFF;
 }
 .link_button {
   color:#169BD5;
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
 .droplist {
   color:#000000;
@@ -92,39 +83,63 @@
   color:#000000;
   text-align:left;
 }
-.html_button {
-  text-align:center;
-}
-._连接线 {
-}
-._流程形状 {
-}
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.table_cell {
-}
-.shape {
-}
-._水平线 {
-}
-.icon {
-}
-.tree_node {
+.checkbox {
   text-align:left;
 }
 .radio_button {
   text-align:left;
 }
-._形状 {
+.html_button {
+  text-align:center;
 }
-._图片 {
-  color:#000000;
+.tree_node {
+  text-align:left;
+}
+.table_cell {
+}
+._流程形状 {
+}
+._连接线 {
+  font-family:'PingFangSC-Ultralight', 'PingFang SC Ultralight', 'PingFang SC';
+  font-weight:100;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .sticky_1 {
   text-align:left;
 }
-.checkbox {
+.sticky_3 {
   text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#E4E4E4;
+  text-align:center;
+  line-height:normal;
+}
+.box_3 {
+}
+.line1 {
+}
+.ellipse {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.box_11 {
+}
+.image {
 }
